@@ -31,24 +31,6 @@
 -   **Tata Consultancy Services (TCS):** Full Stack Developer
   
 <br/>
-<div id="connect">
-  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <span>Connect with me on:</span>
-  </h2>
-  <a href="https://x.com/syed_ahmedullah">
-    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmedullahsyed/">
-    <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto>
-  </a>
-  <a href="https://www.instagram.com/syedahmedullah14/"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
-  <a href="https://api.whatsapp.com/send?phone=9370103600&text=Hi!%Jaser!!">
-    <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
-  </a>
-  <a href="https://discord.com/users/jasersyed#8827/">
-    <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
-  </a>
-</div>
 
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
 <!--
@@ -143,10 +125,6 @@
     <span>GitHub Stats:</span>
   </h2>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedahmedullah14&show_icons=true&locale=en&layout=compact" alt="syedjaser" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedahmedullah14&show_icons=true&locale=en" alt="syedjaser" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedahmedullah14&" alt="syedjaser" /></p>
 
